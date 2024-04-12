@@ -8,32 +8,37 @@
 
 ![headshot](assets/img/Pro.jpg){width=150px height=150px}
 
-# Individual Project 1 - Front-end Web Development 
+# Individual Project 1 - Portfolio Website Development 
 
-## Overview and Requirements 
+## Overview
 
-I began with a simple HTML file that displayed my photo, name, and additional details. Subsequently, I incorporated elements from Lab2 into this project, including features for email, analog and digital clocks, and viewing GIFs through JavaScript code. I also integrated APIs like JokeAPI and Weatherbit into my index.html file. Moreover, I implemented cookies in my index.html using JavaScript. This project encompassed a range of topics including HTML, CSS, JavaScript, Ajax, and jQuery, and involved using APIs to fetch data.
+In Project-1, I created a portfolio website that features my personal details and includes my resume. The project incorporates concepts learned during labs and hackathons. Additionally, I integrated a REST API to display weather information and employed CSS and external JavaScript to enhance various functionalities. I also implemented cookies to store client information and customize interactions based on that data. The technologies used in this project include HTML, CSS, JavaScript, and Ajax for making asynchronous API calls without reloading the page.
 
 I have uploaded the code in my private repository [https://github.com/Maheedhar-Atmakuru/Maheedhar-Atmakuru.github.io] (https://github.com/Maheedhar-Atmakuru/Maheedhar-Atmakuru.github.io)
 
+## Introduction
 
-### Task 1: github.io website creation
+For this project, I was tasked with creating a personal website hosted on GitHub Pages. Following my lecturer's guidance, I set out to complete this assignment.
+Repository Creation and Cloning
+The first step was to create a GitHub repository with the specific name "github.io." This is a requirement for hosting a personal website on GitHub Pages. After creating the repository, I made it public, allowing the public to access my website. I then cloned the repository to my local workspace, ready to begin adding content.
+Adding Content
+Based on the instructions from a previous video lecture, I created an "waph.html" file in the repository. This allowed me to add more content and features to my website, beyond the basic structure.
 
-For this project, I created a GitHub repository named github.io, following the naming guidelines specified by the lecturer. I then made this repository public. After that, I cloned the repository to my local workspace and created a file named waph.html based on the sixth video lecture. Subsequently, I developed an index.html file that includes a headshot and some basic HTML headings. Additionally, I incorporated the code from my Lab 2 into the index.html file.
+## Incorporating Bootstrap
 
-#### a.Creation and cloning:
-Following my professor's recommendation, I started by setting up a GitHub repository using a specific naming convention essential for GitHub Pages to recognize my site as personal. This initial step is crucial for hosting my site on GitHub. I then made this repository publicly accessible, a necessary move to allow public viewing of my site, aligning with GitHub Pages' purpose of showcasing and sharing projects.
+My lecturer recommended using Bootstrap for this project, so I searched for and customized a free Bootstrap theme to fit my needs. I downloaded the Bootstrap files and included them in my HTML code, allowing me to leverage the framework's styling and functionality.
+Enhancing the Website
+To further improve my website, I included my resume in PDF format, organizing it using various divs and subpages. I also utilized CSS to style the forms and display images in frames.
 
-I expanded my website's content by adding a new HTML file named "waph.html," as directed in video class number 6. This file could potentially incorporate more features, enhancing the website's dynamics by using separate HTML files for different functions.
+## Integrating JavaScript Features
 
+To make my website more interactive and engaging, I added several JavaScript-powered features. These include digital and analog clocks, as well as email functionality, building on my previous work in Lab 2.
 
-####  b. Bootstrap files
+## Leveraging APIs
 
-My professor recommended using Bootstrap for this assignment, so I looked up free Bootstrap themes online, chose one, and customized it to meet my needs. Additionally, I downloaded Bootstrap from its official website and integrated it into my HTML file. I included my resume in PDF format on the website, organizing it across various divs and subpages. Furthermore, I utilized CSS to incorporate forms within divs and display images in frames.
+I incorporated two APIs into my "index.html" file: the JokesAPI and the Weatherbit API. The JokesAPI displays a new joke every minute, while the Weatherbit API provides updates on the local weather. The Weatherbit API requires a unique API key, which I added to my code, while the JokesAPI does not require an API key.
+Additionally, I added a free flag counter to the "index.html" file, which displays a new country flag.
 
-#### c. Javascript files
-
-I have incorporated various functionalities such as digital and analog clocks, along with email features, continuing from lab 2. Additionally, I have integrated the JokesAPI and Weatherbit API into the index.html file using the concept of APIs. The JokesAPI randomly displays a joke every minute, while the Weatherbit API provides local weather updates. The Weatherbit API is public, but each user needs to generate a unique API key for use, which must be integrated into their code. Unlike the Weatherbit API, the JokesAPI does not require an API key and simply presents a random joke. Moreover, I have embedded a free flag counter on the index.html, which adds a new country flag.
 
 ![Javascript alert](aboutme1.jpg)
 
@@ -46,3 +51,6 @@ Additionally, I have integrated a random luck generator using JavaScript that pr
 
 ![javascript](javascript.jpg)
 
+## Conclusion
+
+Through this project, I have successfully created a personal website hosted on GitHub Pages. By following my lecturer's guidance, I have incorporated various features and technologies, including Bootstrap, JavaScript, and APIs, to enhance the user experience and functionality of my website.
