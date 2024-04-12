@@ -1,6 +1,6 @@
-# WAPH - Web Application Programming and Hacking
+# Web Application programming and hacking (WAPH)
 
-## Instructor: Dr. Phu Phung
+## Instructor: Dr.Phu Phung
 
 ## Student name: Maheedhar Atmakuru
 
@@ -42,7 +42,22 @@ Additionally, I added a free flag counter to the "index.html" file, which displa
 
 ![Javascript alert](aboutme1.jpg)
 
-The main purpose of the website's cookie management is to inform users that they have previously visited the page at a certain time. Initially, the website displays a welcome message when a user visits for the first time. On subsequent visits, it shows a "welcome back" message along with the timestamp of their last visit. To enhance user experience, the cookies are set to expire after 30 days.
+## Cookie Management
+
+**Compliance with Regulations:** The website's cookie management policy is designed to comply with data protection laws, such as the GDPR and CCPA, which require websites to inform users about the types of cookies used and obtain their consent.
+
+**Transparency and User Control:** The cookie management policy aims to build trust with users by providing transparency about the website's data collection practices. It also gives users control over their cookie preferences, allowing them to accept or reject the use of cookies.
+
+**Legal Protection:** The well-documented cookie management policy can provide legal protection for the website in case of disputes or issues related to cookies and user data.
+
+## Additional Features
+
+**Random Luck Generator:** The website has integrated a random luck generator using JavaScript, which produces a random lucky number for users.
+
+**Digital and Analog Clocks:** The website has also incorporated significant code for both digital and analog clocks, which were implemented in Lab 2.
+
+
+The website's cookie management is focused on compliance, transparency, and user control, rather than just displaying welcome messages and timestamps. The additional features, such as the random luck generator and clocks, are meant to enhance the user experience on the website.
 
 ![Welcome back alert using cookies](aboutme.jpg)
 
