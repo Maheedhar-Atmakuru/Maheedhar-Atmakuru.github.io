@@ -35,14 +35,14 @@ My professor recommended using Bootstrap for this assignment, so I looked up fre
 
 I have incorporated various functionalities such as digital and analog clocks, along with email features, continuing from lab 2. Additionally, I have integrated the JokesAPI and Weatherbit API into the index.html file using the concept of APIs. The JokesAPI randomly displays a joke every minute, while the Weatherbit API provides local weather updates. The Weatherbit API is public, but each user needs to generate a unique API key for use, which must be integrated into their code. Unlike the Weatherbit API, the JokesAPI does not require an API key and simply presents a random joke. Moreover, I have embedded a free flag counter on the index.html, which adds a new country flag.
 
-![Javascript alert](11.png)
+![Javascript alert](aboutme1.jpg)
 
 The main purpose of the website's cookie management is to inform users that they have previously visited the page at a certain time. Initially, the website displays a welcome message when a user visits for the first time. On subsequent visits, it shows a "welcome back" message along with the timestamp of their last visit. To enhance user experience, the cookies are set to expire after 30 days.
 
-![Welcome back alert using cookies](12.png)
+![Welcome back alert using cookies](aboutme.jpg)
 
 
 Additionally, I have integrated a random luck generator using JavaScript that produces a random lucky number. From Lab 2, I also incorporated significant code for both the digital and analog clocks.
 
-![javascript](13.png)
+![javascript](javascript.jpg)
 
