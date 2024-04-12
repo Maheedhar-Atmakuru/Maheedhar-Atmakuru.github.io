@@ -4,7 +4,7 @@
 
 ## Student name: Maheedhar Atmakuru
 
-## Student mail: bodapatmakumaass@mail.uc.edu
+## Student mail: atmakuma@mail.uc.edu
 
 ![headshot](assets/img/Pro.jpg){width=150px height=150px}
 
@@ -14,7 +14,7 @@
 
 I began with a simple HTML file that displayed my photo, name, and additional details. Subsequently, I incorporated elements from Lab2 into this project, including features for email, analog and digital clocks, and viewing GIFs through JavaScript code. I also integrated APIs like JokeAPI and Weatherbit into my index.html file. Moreover, I implemented cookies in my index.html using JavaScript. This project encompassed a range of topics including HTML, CSS, JavaScript, Ajax, and jQuery, and involved using APIs to fetch data.
 
-I have uploaded the code in my private repository [https://github.com/sohanchidvilasbodapati.github.io] (https://github.com/sohanchidvilasbodapati.github.io)
+I have uploaded the code in my private repository [https://github.com/Maheedhar-Atmakuru/Maheedhar-Atmakuru.github.io] (https://github.com/Maheedhar-Atmakuru/Maheedhar-Atmakuru.github.io)
 
 
 ### Task 1: github.io website creation
